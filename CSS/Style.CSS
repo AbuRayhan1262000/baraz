@@ -37,3 +37,22 @@
 .bg-brand{
     background-color: #ececec;
 }
+.line{
+    height: 2px;
+    width: 120px;
+    background-color:rgb(231, 154, 154);
+    margin: 0px auto;
+}
+.innerLine{
+    height: 2px;
+    width:90px;
+    background-color:red;
+}
+footer{
+    background-color: #2e2e54;
+}
+.footer-line{
+    height: 2px;
+    width:100%;
+    background-color: #373770;
+}
